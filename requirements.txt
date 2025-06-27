@@ -1,0 +1,1 @@
+# Project dependencies\nnumpy\npandas\njupyter\nscikit-learn

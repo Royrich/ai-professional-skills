@@ -1,0 +1,4 @@
+Speech input does not work  when the speaker inputs equations: 
+- an equation can consist of parentheses  and variables called x,y,z.
+- calculating them would change the computation, and the letter y can be misinterpreted as a question. 
+- for formulas, use text based requests and voice requests only for plain-language queries.
